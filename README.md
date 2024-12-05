@@ -2,6 +2,8 @@ This repository contains the Score Balance app
 
 ## Instruction
 
+Be sure you have NodeJS installed. This has been tested with v20.10.0
+
 After cloning the repository, run the following commands to start the app:
 
 ```bash
